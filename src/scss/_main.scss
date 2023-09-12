@@ -1,0 +1,8 @@
+body {
+  font-family: sans-serif;
+}
+
+.container /* já existe no bootstrap */ {
+  max-width: $larguraContainer; /* defino uma largura máxima */
+  margin: 0 auto; /* centralizo elementos block */
+}
